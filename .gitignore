@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+wheels/
+*.egg-info/
+sdist/
+*.whl
+*.tar.gz
+*.zip
+*.egg
+*.env
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+pypoetry-lock.txt
+*.sh
+# Environments
+.venv
+venv/
+env/
+ENV/
+virtualenv/
+myenv/
+instance/
+_build/
+.Python
+tmp/
+tmp*
+temp/
+temp*
+
+# PyInstaller
+#  Usually these files are built before PyInstaller
+#  creates the final executable, so as to inject
+#  date/other infos into it.
+*.manifest
+*.spec
+
+# IDEs and editors
+.idea/
+.project
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+*.log
